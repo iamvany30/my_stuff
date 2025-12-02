@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "processes": [
     "cs2.exe",
     "dota2.exe",
