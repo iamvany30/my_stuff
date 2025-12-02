@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "relays": {
+        "[ams] Amsterdam": "155.133.248.36",
+        "[fra] Frankfurt": "155.133.226.68",
+        "[sto] Stockholm": "162.254.198.41",
+        "[waw] Warsaw": "155.133.230.98",
+        "[par] Paris": "185.25.182.18",
+        "[vie] Vienna": "146.66.155.66",
+        "[dxb] Dubai": "185.25.183.163",
+        "[sgp] Singapore": "103.10.124.116",
+        "[tyo] Tokyo": "45.121.184.5"
+    }
+}
