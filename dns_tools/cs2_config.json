@@ -1,14 +1,43 @@
 {
-    "version": 1,
-    "relays": {
-        "[ams] Amsterdam": "155.133.248.36",
-        "[fra] Frankfurt": "155.133.226.68",
-        "[sto] Stockholm": "162.254.198.41",
-        "[waw] Warsaw": "155.133.230.98",
-        "[par] Paris": "185.25.182.18",
-        "[vie] Vienna": "146.66.155.66",
-        "[dxb] Dubai": "185.25.183.163",
-        "[sgp] Singapore": "103.10.124.116",
-        "[tyo] Tokyo": "45.121.184.5"
-    }
+  "version": 2,
+  "relays": {
+    "=== EUROPE ===": "0.0.0.0",
+    "[ams] Amsterdam": "155.133.248.36",
+    "[ams4] Amsterdam (Multiplay)": "172.255.8.172",
+    "[fra] Frankfurt": "155.133.226.68",
+    "[lhr] London": "162.254.196.66",
+    "[mad] Madrid": "155.133.246.34",
+    "[par] Paris": "185.25.182.18",
+    "[sto] Stockholm (Kista)": "162.254.198.41",
+    "[sto2] Stockholm (Bromma)": "155.133.252.37",
+    "[vie] Vienna": "146.66.155.66",
+    "[waw] Warsaw": "155.133.230.98",
+
+    "=== NORTH AMERICA ===": "0.0.0.0",
+    "[atl] Atlanta": "162.254.199.166",
+    "[dfw] Dallas": "162.254.194.37",
+    "[iad] US East (Virginia)": "162.254.192.66",
+    "[lax] Los Angeles": "162.254.195.70",
+    "[ord] Chicago": "162.254.193.71",
+    "[sea] Seattle": "205.196.6.210",
+
+    "=== ASIA & OCEANIA ===": "0.0.0.0",
+    "[dxb] Dubai": "185.25.183.163",
+    "[hkg] Hong Kong": "103.28.54.163",
+    "[sgp] Singapore": "103.10.124.116",
+    "[tyo] Tokyo": "45.121.184.5",
+    "[seo] Seoul": "146.66.152.36",
+    "[bom2] Mumbai": "155.133.224.20",
+    "[maa2] Chennai": "155.133.225.18",
+    "[syd] Sydney": "103.10.125.20",
+
+    "=== SOUTH AMERICA ===": "0.0.0.0",
+    "[gru] Sao Paulo": "155.133.227.35",
+    "[eze] Buenos Aires": "155.133.255.98",
+    "[lim] Lima": "155.133.244.35",
+    "[scl] Santiago": "155.133.249.163",
+
+    "=== AFRICA ===": "0.0.0.0",
+    "[jnb] Johannesburg": "155.133.238.178"
+  }
 }
