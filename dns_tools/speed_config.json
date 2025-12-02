@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "download_urls": [
+    "http://speedtest.tele2.net/10MB.zip",
+    "http://ipv4.download.thinkbroadband.com/10MB.zip"
+  ],
+  "upload_url": "http://speedtest.tele2.net/upload.php"
+}
