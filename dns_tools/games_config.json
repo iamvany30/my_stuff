@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "processes": [
+    "cs2.exe",
+    "dota2.exe",
+    "valorant.exe",
+    "fortniteclient-win64-shipping.exe",
+    "overwatch.exe",
+    "r5apex.exe",
+    "gta5.exe",
+    "minecraft.exe",
+    "pubg.exe",
+    "league of legends.exe",
+    "tankix64.exe",
+    "worldoftanks.exe",
+    "robloxplayerbeta.exe",
+    "atom.exe",
+    "eurotrucks2.exe"
+  ]
+}
