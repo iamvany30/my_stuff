@@ -1,18 +1,29 @@
 {
-    "signature": "dda34b15e386d44db9e556b4d9f32c1e8c68f7002a46660caffdf3817ba39fad778db227f7ad5507543ab05c47bd88c1da6bc583b30536e7436f59d6957f2d08",
+    "signature": "e7a70803246519098b7a065f823f1d4e8391cd0751ce27f474f1444ee4e7ffc57f50108a006d3da621b96870e7dafc516ad986adeee442b98d21536afab5b50a",
     "content": {
-        "version": 2,
+        "version": 3,
         "download_urls": [
             "https://speedtest.selectel.ru/10MB",
             "https://speedtest.selectel.ru/100MB",
             "http://speedtest.tele2.net/10MB.zip",
             "http://speedtest.tele2.net/100MB.zip",
             "http://ipv4.download.thinkbroadband.com/10MB.zip",
+            "http://ipv4.download.thinkbroadband.com/100MB.zip",
             "http://proof.ovh.net/files/10Mb.dat",
             "http://proof.ovh.net/files/100Mb.dat",
             "https://fsn1-speed.hetzner.com/100MB.bin",
             "http://speedtest-nyc1.digitalocean.com/10mb.test",
-            "http://mirror.leaseweb.com/speedtest/100mb.bin"
+            "http://speedtest-nyc1.digitalocean.com/100mb.test",
+            "http://mirror.leaseweb.com/speedtest/100mb.bin",
+            "http://speedtest.frankfurt.linode.com/100MB-frankfurt.bin",
+            "http://speedtest.london.linode.com/100MB-london.bin",
+            "http://speedtest.tokyo2.linode.com/100MB-tokyo2.bin",
+            "http://speedtest.singapore.linode.com/100MB-singapore.bin",
+            "http://nj-us-ping.vultr.com/vultr.com.100MB.bin",
+            "http://par-fr-ping.vultr.com/vultr.com.100MB.bin",
+            "https://cachefly.cachefly.net/100mb.test",
+            "https://speed.hetzner.de/100MB.bin",
+            "http://ashburn-us-ping.vultr.com/vultr.com.100MB.bin"
         ],
         "upload_url": "http://ping.online.net/upload.php"
     }
