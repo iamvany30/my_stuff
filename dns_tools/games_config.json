@@ -1,20 +1,23 @@
 {
-  "version": 2,
-  "processes": [
-    "cs2.exe",
-    "dota2.exe",
-    "valorant.exe",
-    "fortniteclient-win64-shipping.exe",
-    "overwatch.exe",
-    "r5apex.exe",
-    "gta5.exe",
-    "minecraft.exe",
-    "pubg.exe",
-    "league of legends.exe",
-    "tankix64.exe",
-    "worldoftanks.exe",
-    "robloxplayerbeta.exe",
-    "atom.exe",
-    "eurotrucks2.exe"
-  ]
+    "signature": "781029f421d825886f4b7ec030edfd5ad69714c3ec6687dff74693ef57aea1c06609906601fa0f729757af427cf76f23fa0c0bd11a5cbd5e12bccb3cf0f76a0c",
+    "content": {
+        "version": 2,
+        "processes": [
+            "cs2.exe",
+            "dota2.exe",
+            "valorant.exe",
+            "fortniteclient-win64-shipping.exe",
+            "overwatch.exe",
+            "r5apex.exe",
+            "gta5.exe",
+            "minecraft.exe",
+            "pubg.exe",
+            "league of legends.exe",
+            "tankix64.exe",
+            "worldoftanks.exe",
+            "robloxplayerbeta.exe",
+            "atom.exe",
+            "eurotrucks2.exe"
+        ]
+    }
 }

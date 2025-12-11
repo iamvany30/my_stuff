@@ -1,16 +1,19 @@
 {
-  "version": 2,
-  "download_urls": [
-    "https://speedtest.selectel.ru/10MB",
-    "https://speedtest.selectel.ru/100MB",
-    "http://speedtest.tele2.net/10MB.zip",
-    "http://speedtest.tele2.net/100MB.zip",
-    "http://ipv4.download.thinkbroadband.com/10MB.zip",
-    "http://proof.ovh.net/files/10Mb.dat",
-    "http://proof.ovh.net/files/100Mb.dat",
-    "https://fsn1-speed.hetzner.com/100MB.bin",
-    "http://speedtest-nyc1.digitalocean.com/10mb.test",
-    "http://mirror.leaseweb.com/speedtest/100mb.bin"
-  ],
-  "upload_url": "http://ping.online.net/upload.php"
+    "signature": "dda34b15e386d44db9e556b4d9f32c1e8c68f7002a46660caffdf3817ba39fad778db227f7ad5507543ab05c47bd88c1da6bc583b30536e7436f59d6957f2d08",
+    "content": {
+        "version": 2,
+        "download_urls": [
+            "https://speedtest.selectel.ru/10MB",
+            "https://speedtest.selectel.ru/100MB",
+            "http://speedtest.tele2.net/10MB.zip",
+            "http://speedtest.tele2.net/100MB.zip",
+            "http://ipv4.download.thinkbroadband.com/10MB.zip",
+            "http://proof.ovh.net/files/10Mb.dat",
+            "http://proof.ovh.net/files/100Mb.dat",
+            "https://fsn1-speed.hetzner.com/100MB.bin",
+            "http://speedtest-nyc1.digitalocean.com/10mb.test",
+            "http://mirror.leaseweb.com/speedtest/100mb.bin"
+        ],
+        "upload_url": "http://ping.online.net/upload.php"
+    }
 }
