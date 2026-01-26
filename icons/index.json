@@ -1,1 +1,35 @@
-
+// version: 2026.01.27
+{
+    "cs2.exe": {
+        "name": "Counter-Strike 2",
+        "icon_filename": "cs2.svg"
+    },
+    "code.exe": {
+        "name": "Visual Studio Code",
+        "icon_filename": "code.svg"
+    },
+    "chrome.exe": {
+        "name": "Google Chrome",
+        "icon_filename": "chrome.svg"
+    },
+    "telegram.exe": {
+        "name": "Telegram",
+        "icon_filename": "telegram.svg"
+    },
+    "discord.exe": {
+        "name": "Discord",
+        "icon_filename": "discord.png"
+    },
+    "steam.exe": {
+        "name": "Steam",
+        "icon_filename": "steam.svg"
+    },
+    "explorer.exe": {
+        "name": "Проводник",
+        "icon_filename": "explorer.png"
+    },
+    "spotify.exe": {
+        "name": "Spotify",
+        "icon_filename": "spotify.svg"
+    }
+}
