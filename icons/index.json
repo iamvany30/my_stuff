@@ -1,7 +1,9 @@
-// version: 2026.01.28
 {
-    "code.exe": {
-        "name": "Visual Studio Code",
-        "icon_filename": "code.svg"
+    "version": 1,
+    "apps": {
+        "code.exe": {
+            "name": "Visual Studio Code",
+            "icon_filename": "code.svg"
+        }
     }
 }
