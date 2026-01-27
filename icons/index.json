@@ -1,9 +1,9 @@
 {
-    "version": 2,
+    "version": 1,
     "apps": {
         "code.exe": {
             "name": "Visual Studio Code",
-            "icon_filename": "cs2.png"
+            "icon_filename": "code.svg"
         }
     }
 }
