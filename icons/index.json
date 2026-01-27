@@ -3,7 +3,8 @@
     "apps": {
         "code.exe": {
             "name": "Visual Studio Code",
-            "icon_filename": "code.svg"
+            "icon_filename": "code.svg",
+            "version": 1
         }
     }
 }
